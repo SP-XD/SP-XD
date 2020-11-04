@@ -1,6 +1,6 @@
 <div align="center" width="50">
-<img src="https://giphy.com/embed/3o7WIx7urV838kHFzW" width="30px">
-# Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<img src="https://giphy.com/gifs/3o7WIx7urV838kHFzW/html5" width="30px">
+# Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <br>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="CoDiNg RocKs"  width="300"/>
 
