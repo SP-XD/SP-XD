@@ -11,10 +11,10 @@
 
 
 
- 🔭 I’m currently coding.
- 🌱 I like exploring GNU/Linux.
- 💬 Ask me about anything.
+ 🔭 I’m currently coding. <br>
+ 🌱 I like exploring GNU/Linux. <br>
+ 💬 Ask me about anything. <br>
  📫 How to reach me: [丂𝙋⚡ㄕ𝙄𝙆𝘼𝘾𝙃𝙐](https://t.me/pik0chu007)<br>
- ⚡ Fun fact: PIKAAA PI
+ ⚡ Fun fact: PIKAAA PI <br>
 
 </div>
