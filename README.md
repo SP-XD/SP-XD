@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <div align="center" width="50">
-<img src="https://media4.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif" alt="CoDiNg RocKs"  width="300"/>
+<img src="https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="CoDiNg RocKs"  width="300"/>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=SP-PIKACHU&style=flat&color=orange&label=PROFILE+VIEWS)<br>
