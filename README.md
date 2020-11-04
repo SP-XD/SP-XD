@@ -1,6 +1,7 @@
-# Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
 <div align="center" width="50">
+
+# Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
 <img src="https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="CoDiNg RocKs"  width="300"/>
 
 
