@@ -1,5 +1,5 @@
 <div align="center" width="50">
-
+<img src="https://giphy.com/embed/3o7WIx7urV838kHFzW" width="30px">
 # Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="CoDiNg RocKs"  width="300"/>
@@ -13,7 +13,7 @@
 
 
 
- 🌱 I’m currently coding. <br>
+ 🌱 I’m currently learning coding. <br>
  🔭 I like exploring GNU/Linux. <br>
  💬 Ask me about anything. <br>
  📫 How to reach me: [丂𝙋⚡ㄕ𝙄𝙆𝘼𝘾𝙃𝙐](https://t.me/pik0chu007)<br>
