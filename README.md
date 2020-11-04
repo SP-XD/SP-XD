@@ -1,5 +1,4 @@
 <div align="center" width="50">
-<img src="https://giphy.com/gifs/3o7WIx7urV838kHFzW/html5" width="30px">
  
 # Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <br>
 
