@@ -17,6 +17,6 @@
  🔭 I like exploring GNU/Linux. <br>
  💬 Ask me about Pc building, Movies, or anything. <br>
  📫 How to reach me: [丂𝙋⚡ㄕ𝙄𝙆𝘼𝘾𝙃𝙐](https://t.me/pik0chu007)<br>
- ⚡ Fun fact: I can be socially awkward sometimes<br>
+ ⚡ Fun fact: I can be socially awkward sometimes.<br>
 
 </div>
