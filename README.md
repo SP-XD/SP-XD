@@ -13,10 +13,10 @@
 
 
 
- - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20vw" /> I’m currently learning to **CODE**. <br>
- - 🔭 I like exploring GNU/Linux. <br>
- - 💬 Ask me about Pc building, Movies, or anything. <br>
- - 📫 Find me on Telegram: [丂𝙋⚡ㄕ𝙄𝙆𝘼𝘾𝙃𝙐](https://t.me/pik0chu007)<br>
- - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.<br>
+  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20vw" /> I’m currently learning to **CODE**. <br>
+  🔭 I like exploring GNU/Linux. <br>
+  💬 Ask me about Pc building, Movies, or anything. <br>
+  📫 Find me on Telegram: [丂𝙋⚡ㄕ𝙄𝙆𝘼𝘾𝙃𝙐](https://t.me/pik0chu007)<br>
+  ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.<br>
 
 </div>
