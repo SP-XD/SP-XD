@@ -20,7 +20,7 @@
 
 <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" />
 
--  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20vw" />  I’m currently learning to **CODE**. <br>
+-  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20vw" />  I’m currently learning **C & Python(ML)**. <br>
 - 🔭 I like exploring **GNU/Linux**. <br>
 - 💬  Ask me about **Pc building, Movies, or anything**. <br>
 -  📫  Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>
