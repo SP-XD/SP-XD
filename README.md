@@ -1,6 +1,8 @@
+<img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px" ><br>
+
 <div align="center" width="50">
  
-# Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif?raw=true" width="30px"> <br>
+# I'm Somnath Paul <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif?raw=true" width="30px"> !<br>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="CoDiNg RocKs"  width="500"/>
 
