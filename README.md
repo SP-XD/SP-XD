@@ -26,4 +26,4 @@
 -  📫  Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>
 -  ⚡  Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
-
+![](https://github.com/SP-XD/SP-XD/blob/main/dino.gif?raw=true)
