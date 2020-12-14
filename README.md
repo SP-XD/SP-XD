@@ -1,8 +1,9 @@
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px" -->
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px" //# нєℓℓσ <𝚌𝚘𝚍𝚎𝚛𝚜/>, I'm Somnath Paul <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif?raw=true" width="30px"> !<br>
+ -->
 
 <div align="center" width="50">
 
-# нєℓℓσ <𝚌𝚘𝚍𝚎𝚛𝚜/>, I'm Somnath Paul <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif?raw=true" width="30px"> !<br>
+<img src="https://i.ibb.co/KzHJ64s/merge-from-ofoct.gif" alt="Hello Coders" with="500"/>
 
 <img src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif" alt="CoDiNg RocKs"  width="500"/>
 
