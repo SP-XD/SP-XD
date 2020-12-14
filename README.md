@@ -3,7 +3,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/hellocoders3k.gif?raw=true" alt="Hello Coders" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/hellocoders3k.gif?raw=true" alt="Hello Coders" width="625"/>
 
 <img src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif" alt="CoDiNg RocKs"  width="500"/>
 
