@@ -5,7 +5,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/hellocoders3k.gif?raw=true" alt="Hello Coders" width="625"/>
 
-<img src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif" alt="CoDiNg RocKs"  width="500"/>
+<img src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif" alt="CoDiNg RocKs"  width="525"/>
 
 <!--https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif -->
 
