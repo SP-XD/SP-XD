@@ -21,7 +21,7 @@
 
 
 
--  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" />  I’m currently learning **C & Python(ML)**. <br>
+-  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" />  I’m currently learning **C & Python(ML)**. <br>
 - <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> I like exploring **GNU/Linux**. <br>
 - 💬  Ask me about **Pc building, Movies, or anything**. <br>
 -  📫  Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>
