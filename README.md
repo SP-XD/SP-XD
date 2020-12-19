@@ -21,11 +21,11 @@
 
 
 
--  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" />  I’m currently learning **C & Python(ML)**. <br>
-- <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/ezgif-6-b222fd2f594d.gif?raw=true" width="25" /> Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://media0.giphy.com/media/1X7A3xmpfuVrn3bjkW/giphy.gif?cid=ecf05e4780e4ed89f554fa0944b9d9c363817f5fad23a6da&rid=giphy.gif" width="25" />  Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>
-- <img src="https://media0.giphy.com/media/5WjvTkh7sYGE4Jq3qA/giphy.gif?cid=ecf05e47adc411368cce64f6bd8e1b14daa8ac9eb96c8a62&rid=giphy.gif" width="10" />  Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+-  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently learning **C & Python(ML)**. <br>
+- <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/ezgif-6-b222fd2f594d.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://media3.giphy.com/media/m7dLILmScZoGjiO2Nw/giphy.gif?cid=ecf05e4714omnnrxqlscixb185lnxvi0zuk6l0aqzw1a23ca&rid=giphy.gif" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>
+- <img src="https://media0.giphy.com/media/5WjvTkh7sYGE4Jq3qA/giphy.gif?cid=ecf05e47adc411368cce64f6bd8e1b14daa8ac9eb96c8a62&rid=giphy.gif" width="10" />&nbsp;&nbsp;&nbsp; &nbsp; Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
 <img src="https://github.com/SP-XD/SP-XD/blob/main/dino.gif?raw=true" />
