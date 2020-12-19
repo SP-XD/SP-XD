@@ -23,9 +23,9 @@
 
 -  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" />  I’m currently learning **C & Python(ML)**. <br>
 - <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> I like exploring **GNU/Linux**. <br>
-- 💬  Ask me about **Pc building, Movies, or anything**. <br>
--  📫  Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>
--  ⚡  Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+- <img src="https://media3.giphy.com/media/9V8Ycr1VN3GaTHCXhP/giphy.gif?cid=ecf05e47ueuh88vuhu0u09rh4ur62j1ja4u8qy3qafogx961&rid=giphy.gif" width="20" /> Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://media3.giphy.com/media/m7dLILmScZoGjiO2Nw/giphy.gif?cid=ecf05e4714omnnrxqlscixb185lnxvi0zuk6l0aqzw1a23ca&rid=giphy.gif " width="20" />  Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>
+- <img src="https://media0.giphy.com/media/5WjvTkh7sYGE4Jq3qA/giphy.gif?cid=ecf05e47adc411368cce64f6bd8e1b14daa8ac9eb96c8a62&rid=giphy.gif" width="10" />  Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
 <img src="https://github.com/SP-XD/SP-XD/blob/main/dino.gif?raw=true" />
