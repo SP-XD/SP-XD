@@ -1,5 +1,4 @@
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px" //# нєℓℓσ <𝚌𝚘𝚍𝚎𝚛𝚜/>, I'm Somnath Paul <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif?raw=true" width="30px"> !<br>
- -->
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px"-->
 
 <div align="center" width="50">
 
