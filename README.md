@@ -8,9 +8,6 @@
 
 <!--https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif -->
 
-
-![SP-XD's github stats](https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2) <br>
-
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 
 ![](https://komarev.com/ghpvc/?username=SP-PIKACHU&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -19,16 +16,18 @@
 
 </div>
 
-
-
-
 -  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently learning **C & CPP**. <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" /><br>
 - <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/ezgif-6-b222fd2f594d.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://media3.giphy.com/media/m7dLILmScZoGjiO2Nw/giphy.gif?cid=ecf05e4714omnnrxqlscixb185lnxvi0zuk6l0aqzw1a23ca&rid=giphy.gif" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>
 - &nbsp;&nbsp;<img src="https://media3.giphy.com/media/mBXKroHownhhXn0CHM/giphy.gif?cid=ecf05e470e5f7b3f4f926a208f1f7646a19e87f78b2d83b0&rid=giphy.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
+
 <div align="center" >
+
+[![SP-XD's github stats](https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2)](https://github.com/sp-xd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp-xd&layout=compact&count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2)](https://github.com/sp-xd)<br>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/dino.gif?raw=true" />
 <img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
 </div>
