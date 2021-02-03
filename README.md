@@ -27,6 +27,9 @@
 - &nbsp;&nbsp;<img src="https://media3.giphy.com/media/mBXKroHownhhXn0CHM/giphy.gif?cid=ecf05e470e5f7b3f4f926a208f1f7646a19e87f78b2d83b0&rid=giphy.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
+  
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/dino.gif?raw=true" />
 <img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
 </div>
