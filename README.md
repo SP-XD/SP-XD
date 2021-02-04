@@ -4,11 +4,12 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/hellocoders3k.gif?raw=true" alt="Hello Coders" width="625"/>
 
-<img src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif" alt="CoDiNg RocKs"  width="525"/>
+
+<img src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif" alt="CoDiNg RocKs"  width="500"/> <br>
+
+<img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/somnathpaul" /><br>
 
 <!--https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif -->
-
-<img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/somnathpaul" />
 
 ![](https://komarev.com/ghpvc/?username=SP-PIKACHU&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-PIKACHU&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -24,8 +25,8 @@
 - &nbsp;&nbsp;<img src="https://media3.giphy.com/media/mBXKroHownhhXn0CHM/giphy.gif?cid=ecf05e470e5f7b3f4f926a208f1f7646a19e87f78b2d83b0&rid=giphy.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 
-<img alt="SP-XD's github stats" align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
-<img alt="Top Langs" align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-xd&layout=compact&count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" /> <br>
+<img alt="SP-XD's github stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
+<img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-xd&layout=compact&count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" /> <br>
 
 <div align="center" >
 
