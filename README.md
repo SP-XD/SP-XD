@@ -8,14 +8,13 @@
 
 <!--https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif -->
 
-</div>
-
-<img alt="SP-XD's github stats" align="right" width="44%" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
 <img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/somnathpaul" />
 
 ![](https://komarev.com/ghpvc/?username=SP-PIKACHU&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-PIKACHU&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 [![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/pik0chu007) <br>
+
+</div>
 
 
 -  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently learning **C & CPP**. <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" /><br>
@@ -24,10 +23,13 @@
 - <img src="https://media3.giphy.com/media/m7dLILmScZoGjiO2Nw/giphy.gif?cid=ecf05e4714omnnrxqlscixb185lnxvi0zuk6l0aqzw1a23ca&rid=giphy.gif" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>
 - &nbsp;&nbsp;<img src="https://media3.giphy.com/media/mBXKroHownhhXn0CHM/giphy.gif?cid=ecf05e470e5f7b3f4f926a208f1f7646a19e87f78b2d83b0&rid=giphy.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
-<!-- img alt="Top Langs" align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-xd&layout=compact&count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" -->
+
+<img alt="SP-XD's github stats" align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
+<img alt="Top Langs" align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-xd&layout=compact&count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" /> <br>
 
 <div align="center" >
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/dino.gif?raw=true" />
 <img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
+
 </div>
