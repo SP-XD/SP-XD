@@ -4,8 +4,8 @@
 
 <a  href="https://github.com/SP-XD">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/hellocoders3k.gif?raw=true" alt="Hello Coders" width="625"/> <br>
-  <img src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> 
-  </a>  
+  <img src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> </a>  
+  
 #### 1st year BCA student. During day, assisting 
 #### my father at his shop & Coder at night.
 ### Vibing to : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
