@@ -8,7 +8,8 @@
 
 <!--https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif -->
 
-<img alt="SP-XD's github stats" width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd"/>
+<img alt="SP-XD's github stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" /> <br>
+
 <img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/somnathpaul" />
 
 ![](https://komarev.com/ghpvc/?username=SP-PIKACHU&style=flat&color=orange&label=PROFILE+VIEWS)
