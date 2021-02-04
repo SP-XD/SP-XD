@@ -2,15 +2,17 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/hellocoders3k.gif?raw=true" alt="Hello Coders" width="625"/>
-
-
-<img src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif" alt="CoDiNg RocKs"  width="550"/> <br>
-
-
+<a  href="https://github.com/SP-XD">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/hellocoders3k.gif?raw=true" alt="Hello Coders" width="625"/> <br>
+  <img src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> 
+  </a>  
+#### 1st year BCA student. During day, assisting 
+#### my father at his shop & Coder at night.
 ### Vibing to : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
 
-<img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/somnathpaul" /><br>
+<!--img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/somnathpaul" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
 <!--https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif -->
 
@@ -20,6 +22,7 @@
 
 </div>
 
+<hr></hr>
 
 -  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently learning **C & CPP**. <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" /><br>
 - <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
@@ -28,12 +31,18 @@
 - &nbsp;&nbsp;<img src="https://media3.giphy.com/media/mBXKroHownhhXn0CHM/giphy.gif?cid=ecf05e470e5f7b3f4f926a208f1f7646a19e87f78b2d83b0&rid=giphy.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
-
+  
+<a  href="https://github.com/SP-XD"> 
+  
 <img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-xd&layout=compact&count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" /> <br>
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-xd&layout=compact&count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
 
+</a>
+
+<hr></hr>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/dino.gif?raw=true" />
 <img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
 
 </div>
+
